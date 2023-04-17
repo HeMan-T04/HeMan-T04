@@ -3,7 +3,7 @@
 <h2 align="Center">
  <abc>
   Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Kanishk rawat , Web Developer :computer:<br>
+  <br> I'm Hemant Kathuria , CyberSecurity Enthusiast :computer:<br>
  </abc>
  <br>
 </h2> 
@@ -19,6 +19,6 @@
 <table>
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/kanishkrawatt/count.svg" alt="vistor count" height="30" width="224" /></td>
+    <td><img src="https://profile-counter.glitch.me/HeMan-T04/count.svg" alt="vistor count" height="30" width="224" /></td>
   </tr>
 </table>
