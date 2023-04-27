@@ -141,8 +141,7 @@
 <br>
 <br>
 
-<div align='center'>
-	<img src ="./bottomflow.svg" alt ="banner" />
+<img src ="./bottomflow.svg" alt ="banner" />
 
 
 <table>
@@ -150,12 +149,6 @@
     <td>You are visitor</td>
     <td><img src="https://profile-counter.glitch.me/HeMan-T04/count.svg" alt="vistor count" height="30" width="224" /></td>
   </tr>
-</table>
-</div>
-<br>
-<br>
-<br>
-<br>
 
 ---
 
