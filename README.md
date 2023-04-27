@@ -23,6 +23,7 @@
 - Future Goal till now: To go in Digital Forensics
 - Currently learning ReactJs, firebase, Web Penentration Testing, Java (Ya, I am multitasking)
 - Current Project: Web based Stegnography tool(will be out soon)
+- Currently Using : Pop OS and Windows 11(Dual Booted)(Don't Prefer Windows much just for gaming)
 <!-- - Personal website [link](https://www.0xabdulkhalid.ml)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid) -->
 
