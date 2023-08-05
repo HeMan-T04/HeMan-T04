@@ -24,8 +24,8 @@
 - Currently learning Streamlit, Opencv, Google Proffessional Certificate, Nptel Ethical Hacking (Ya, I am multitasking)
 - Current Project: Web based Stegnography tool(is in the repos)
 - Currently Using : Endeavour OS and Windows 11(Dual Booted)(Don't Prefer Windows much just for gaming)
-<!-- - Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid) -->
+<!-- - Personal website [link](https://www.0xabdulkhalid.ml)-->
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/19ZK1cttBAOpZuFLkPsQp1OolMOC5VRTa/view?usp=sharing) 
 
 <br><br>
 
