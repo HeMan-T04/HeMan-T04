@@ -21,9 +21,9 @@
 - Playing CTF's at spare time
 - A heavy Cybersecuirty Enthusiast 
 - Future Goal till now: To go in Digital Forensics
-- Currently learning ReactJs, firebase, Web Penentration Testing, Java (Ya, I am multitasking)
-- Current Project: Web based Stegnography tool(will be out soon)
-- Currently Using : Pop OS and Windows 11(Dual Booted)(Don't Prefer Windows much just for gaming)
+- Currently learning Streamlit, Opencv, Google Proffessional Certificate, Nptel Ethical Hacking (Ya, I am multitasking)
+- Current Project: Web based Stegnography tool(is in the repos)
+- Currently Using : Endeavour OS and Windows 11(Dual Booted)(Don't Prefer Windows much just for gaming)
 <!-- - Personal website [link](https://www.0xabdulkhalid.ml)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid) -->
 
@@ -165,7 +165,7 @@
 <br>
 
 <li>
-<a href="https://drive.google.com/file/d/182HMuUC74pmPgsssIaUbH7EcQgIvs00v/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1xrEse0v8VapvGwzKCB7nLNrDJ7oYpsHp/view?usp=sharing" target="_blank">
 <img src="https://img.shields.io/badge/Resume:  HeManT04-%23EA4335.svg?style=for-the-badge&logo=R&logoColor=white" t=mail style="margin-bottom: 5px;" />
 
 </a>
