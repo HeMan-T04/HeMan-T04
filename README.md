@@ -1,4 +1,3 @@
-![image](https://github.com/HeMan-T04/HeMan-T04/assets/100681483/555a6047-964a-4d4a-9dd1-869d66c8269a)
 <h1 align="center"><b>Hi , I'm Hemant Kathuria </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
