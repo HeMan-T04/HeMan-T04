@@ -1,4 +1,4 @@
-
+![image](https://github.com/HeMan-T04/HeMan-T04/assets/100681483/555a6047-964a-4d4a-9dd1-869d66c8269a)
 <h1 align="center"><b>Hi , I'm Hemant Kathuria </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
@@ -24,7 +24,7 @@
 - Currently learning Streamlit, Opencv, Google Proffessional Certificate, Nptel Ethical Hacking (Ya, I am multitasking)
 - Current Project: Web based Stegnography tool(is in the repos)
 - Currently Using : Endeavour OS and Windows 11(Dual Booted)(Don't Prefer Windows much just for gaming)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/19ZK1cttBAOpZuFLkPsQp1OolMOC5VRTa/view?usp=sharing)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1aZxeEtju-Sp8Grmq-hN6iBpdTO0A45JF/view?usp=sharing)
 <!-- - Personal website [link](https://www.0xabdulkhalid.ml)-->
 
 <br><br>
@@ -165,7 +165,7 @@
 <br>
 
 <li>
-<a href="https://drive.google.com/file/d/19ZK1cttBAOpZuFLkPsQp1OolMOC5VRTa/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1aZxeEtju-Sp8Grmq-hN6iBpdTO0A45JF/view?usp=sharing" target="_blank">
 <img src="https://img.shields.io/badge/Resume:  HeManT04-%23EA4335.svg?style=for-the-badge&logo=R&logoColor=white" t=mail style="margin-bottom: 5px;" />
 
 </a>
