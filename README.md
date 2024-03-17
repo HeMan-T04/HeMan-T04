@@ -23,7 +23,7 @@
 - Currently learning Streamlit, Opencv, Google Proffessional Certificate, Nptel Ethical Hacking (Ya, I am multitasking)
 - Current Project: Web based Stegnography tool(is in the repos)
 - Currently Using : Endeavour OS and Windows 11(Dual Booted)(Don't Prefer Windows much just for gaming)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1rti-GHkYxs-0NLRuLN0MCXqSCe0FXl-y/view?usp=sharing)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1RF4Z6K_b_9uATA9ia2ZfL9bSoewlaA4S/view?usp=sharing)
 <!-- - Personal website [link](https://www.0xabdulkhalid.ml)-->
 
 <br><br>
@@ -164,7 +164,7 @@
 <br>
 
 <li>
-<a href="https://drive.google.com/file/d/1rti-GHkYxs-0NLRuLN0MCXqSCe0FXl-y/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1RF4Z6K_b_9uATA9ia2ZfL9bSoewlaA4S/view?usp=sharing" target="_blank">
 <img src="https://img.shields.io/badge/Resume:  HeManT04-%23EA4335.svg?style=for-the-badge&logo=R&logoColor=white" t=mail style="margin-bottom: 5px;" />
 
 </a>
