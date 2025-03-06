@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Hemant Kathuria </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student,;CyberSecurity+Enthusiast,;Future+Digital+Forensic+Expert,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Postgrad@Cyber-Security,;Cyber-Security+Analyst,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -16,15 +16,16 @@
 
 <br>
 
-- A passionate developer
+- A passionate Security peep
 - Playing CTF's at spare time
-- A heavy Cybersecuirty Enthusiast 
-- Future Goal till now: To go in Digital Forensics
-- Currently learning Streamlit, Opencv, Google Proffessional Certificate, Nptel Ethical Hacking (Ya, I am multitasking)
-- Current Project: Web based Stegnography tool(is in the repos)
-- Currently Using : Endeavour OS and Windows 11(Dual Booted)(Don't Prefer Windows much just for gaming)
+- Future Goal till now: To go in Digital Forensics and Incident Response
+- Currently Pursuing M.Sc Cyber Security from National Forensic Sciences University, Gandhinagar
+- Currently learning Mobile Security, ISC2 CC, Cisco Courses, and my semester subjects
+- Love to learn new stuffs and explore new technologies
+- Current Project: Mobile Forensics Tool(Private)
+- Currently Using : Windows 11, and Kali WSL
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1RF4Z6K_b_9uATA9ia2ZfL9bSoewlaA4S/view?usp=sharing)
-<!-- - Personal website [link](https://www.0xabdulkhalid.ml)-->
+- Personal website [link](https://hemantkathuria.vercel.app/)
 
 <br><br>
 
@@ -43,6 +44,29 @@
     ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
     ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+<br>   
+
+
+- **Security Tools**:
+    
+    ![Wireshark](https://img.shields.io/badge/Wireshark%20-%2338A0FF.svg?style=for-the-badge&logo=Wireshark&logoColor=white)
+    ![Nmap](https://img.shields.io/badge/Nmap%20-%23000000.svg?style=for-the-badge&logo=Nmap&logoColor=white)
+    ![Burp Suite](https://img.shields.io/badge/Burp%20Suite%20-%23FF3A0D.svg?style=for-the-badge&logo=Burp%20Suite&logoColor=white)
+    ![Metasploit](https://img.shields.io/badge/Metasploit%20-%23E4405F.svg?style=for-the-badge&logo=Metasploit&logoColor=white)
+    ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP%20-%23100000.svg?style=for-the-badge&logo=OWASP%20ZAP&logoColor=white)
+    ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng%20-%23FF9F00.svg?style=for-the-badge&logo=Aircrack-ng&logoColor=white)
+    ![John The Ripper](https://img.shields.io/badge/John%20The%20Ripper%20-%23FF9F00.svg?style=for-the-badge&logo=John-The-Ripper&logoColor=white)
+    ![Snort](https://img.shields.io/badge/Snort%20-%23FF9F00.svg?style=for-the-badge&logo=Snort&logoColor=white)
+    ![ettercap](https://img.shields.io/badge/ettercap%20-%23FF9F00.svg?style=for-the-badge&logo=ettercap&logoColor=white)
+    ![ida pro](https://img.shields.io/badge/ida%20pro%20-%23FF9F00.svg?style=for-the-badge&logo=ida-pro&logoColor=white)
+    ![Sysinternals](https://img.shields.io/badge/Sysinternals%20-%23FF9F00.svg?style=for-the-badge&logo=Sysinternals&logoColor=white)
+    ![Sysmon](https://img.shields.io/badge/Sysmon%20-%23FF9F00.svg?style=for-the-badge&logo=Sysmon&logoColor=white)
+    ![Autopsy](https://img.shields.io/badge/Autopsy%20-%23FF9F00.svg?style=for-the-badge&logo=Autopsy&logoColor=white)
+    ![Adb](https://img.shields.io/badge/Adb%20-%23FF9F00.svg?style=for-the-badge&logo=Adb&logoColor=white)
+    ![Genymotion](https://img.shields.io/badge/Genymotion%20-%23FF9F00.svg?style=for-the-badge&logo=Genymotion&logoColor=white)
+    ![Drowser](https://img.shields.io/badge/Drowser%20-%23FF9F00.svg?style=for-the-badge&logo=Drowser&logoColor=white)
+    ![diva-beta](https://img.shields.io/badge/diva%20beta%20-%23FF9F00.svg?style=for-the-badge&logo=diva-beta&logoColor=white)
+    
 <br>   
     
 - **Front-End Development**:
