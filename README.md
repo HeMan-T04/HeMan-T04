@@ -24,7 +24,7 @@
 - Love to learn new stuffs and explore new technologies
 - Current Project: Mobile Forensics Tool(Private)
 - Currently Using : Windows 11, and Kali WSL
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1RF4Z6K_b_9uATA9ia2ZfL9bSoewlaA4S/view?usp=sharing)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1HbkIzaIA1Xu17tFQZFIY0FrPTYMOrzyi/view?usp=sharing)
 - Personal website [link](https://hemantkathuria.vercel.app/)
 
 <br><br>
@@ -188,7 +188,7 @@
 <br>
 
 <li>
-<a href="https://drive.google.com/file/d/1RF4Z6K_b_9uATA9ia2ZfL9bSoewlaA4S/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1HbkIzaIA1Xu17tFQZFIY0FrPTYMOrzyi/view?usp=sharing" target="_blank">
 <img src="https://img.shields.io/badge/Resume:  HeManT04-%23EA4335.svg?style=for-the-badge&logo=R&logoColor=white" t=mail style="margin-bottom: 5px;" />
 
 </a>
